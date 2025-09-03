@@ -1,10 +1,10 @@
 # Hi there 👋, Welcome!
 
-![Banner]([https://your-image-url.com/banner.png](https://media.licdn.com/dms/image/v2/D5616AQF2XmfurA9UlQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXcMGgHsAY-/0/1746297472567?e=1757548800&v=beta&t=5PDjyHD5R7DrQiySJjQ8Wo3rPRQ1z-EJjhBqs67Gh8g))
+![Banner]((https://media.licdn.com/dms/image/v2/D5616AQF2XmfurA9UlQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaXcMGgHsAY-/0/1746297472567?e=1757548800&v=beta&t=5PDjyHD5R7DrQiySJjQ8Wo3rPRQ1z-EJjhBqs67Gh8g))
 
 ---
 
-Hello! I'm **Ashwath**.  
+Hello! I'm **45HH**, a.k.a Aswath,  
 I'm a curious mind in the world of **Cybersecurity & Ethical Hacking** 🔐 from India 🇮🇳.  
 Currently learning how the web breaks — and how to secure it — one CTF challenge at a time!
 
@@ -23,7 +23,6 @@ Currently learning how the web breaks — and how to secure it — one CTF chall
 
 - 🥇 **1st Place** – OWASP x AnzenCTF 2025  
 - 💻 Built automated scripts for enumeration & recon  
-- ✍️ Shared multiple CTF writeups and cyber research content  
 
 ---
 
