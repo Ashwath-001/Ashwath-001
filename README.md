@@ -1,6 +1,5 @@
 # Hi, Welcome!! 
-
-## I'm Aswath A V  
+I'm Aswath A V
 Software Developer | Cybersecurity Enthusiast  
 Chennai, Tamil Nadu, India
 
@@ -43,11 +42,11 @@ I am a third-year Computer Science student specializing in Cyber Security with a
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwath-001&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwath-001&show_icons=true&hide_title=true&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashwath-001)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwath-001&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwath-001&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwath-001&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
