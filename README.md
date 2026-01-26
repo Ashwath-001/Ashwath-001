@@ -43,11 +43,11 @@ I am a third-year Computer Science student specializing in Cyber Security with a
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwath-001&show_icons=true&hide_title=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwath-001)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwath-001&layout=compact)
 
 ---
 
