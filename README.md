@@ -9,7 +9,7 @@ Chennai, Tamil Nadu, India
 
 ## About Me
 
-I am a third-year Computer Science student specializing in Cyber Security with a strong foundation in Data Structures and Algorithms, C++, and Python. I have hands-on experience in web security, CTF challenges, vulnerability analysis, and Linux-based development.
+I am a Computer Science graduate specializing in Cyber Security with a strong foundation in Data Structures and Algorithms, C++, and Python. I have hands-on experience in web security, CTF challenges, vulnerability analysis, and Linux-based development.
 
 ---
 
